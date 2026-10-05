@@ -1,0 +1,23 @@
+name: fetch-photo
+on:
+  push:
+    paths: ["requests/*.txt"]
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download free-licence photos from Wikimedia Commons
+        run: |
+          for f in requests/*.txt; do
+            slug=$(basename "$f" .txt)
+            [ -f "photos/$slug/photo.jpg" ] && continue
+            mkdir -p "photos/$slug"
+            python3 tools/fetch_photo.py "$(cat "$f")" "photos/$slug" || echo "no photo for $slug"
+          done
+      - name: Commit
+        run: |
+          git config user.name "story-bot"; git config user.email "story-bot@users.noreply.github.com"
+          git add photos && git commit -m "Add photos" && git push || echo "nothing new"
