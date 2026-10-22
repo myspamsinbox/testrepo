@@ -1,0 +1,18 @@
+{
+ "series": "Hidden islands of Australia",
+ "title": "All 5 *hidden islands* of Australia",
+ "next": "a new series",
+ "nextLabel": "Coming next week",
+ "parts": [
+  "/mnt/project-files/posts/2026-10-21-maria-island",
+  "/mnt/project-files/posts/2026-10-22-lady-elliot",
+  "/mnt/project-files/posts/2026-10-22-montague-island",
+  "/mnt/project-files/posts/2026-10-23-cockatoo-island",
+  "/mnt/project-files/posts/2026-10-23-thursday-island"
+ ],
+ "cover": {
+  "part": 1,
+  "hook": "5 Aussie islands most people *never visit*",
+  "tease": "One has *no cars*. One was *a convict prison*. Swipe to see which."
+ }
+}
