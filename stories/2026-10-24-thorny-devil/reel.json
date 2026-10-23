@@ -1,0 +1,115 @@
+{
+ "location": "AUSTRALIAN DESERTS · WA, SA, NT",
+ "hook": "This lizard drinks with its *skin*",
+ "tag": "Part 1 of 5: Australia's animal superpowers",
+ "cta": "A new *animal superpower* every day",
+ "credit": "Photos: Nicole Kearney (CC BY 4.0), Magda (CC0), Richard Fuller (CC0), Valentin Moser (CC BY 4.0), tobyyy (CC BY-SA 4.0) via Wikimedia Commons · Music: Kevin MacLeod, Monkeys Spinning Monkeys (CC BY 3.0) · AI voice",
+ "coverAt": 1.4,
+ "music": "music-monkeys.mp3",
+ "musicStart": 0,
+ "scenes": [
+  {
+   "say": "This lizard drinks with its skin.",
+   "show": "This lizard drinks with its skin.",
+   "photo": "photo-spikes.jpg",
+   "focus": [
+    0.55,
+    0.5
+   ]
+  },
+  {
+   "say": "Meet the thorny devil, a spiky desert lizard about twenty centimetres long.",
+   "show": "Meet the thorny devil, a spiky desert lizard about 20 cm long.",
+   "photo": "photo-side.jpg",
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "stat": {
+    "value": "20 cm",
+    "countTo": 20,
+    "suffix": " cm",
+    "label": "Spikes from head to tail"
+   }
+  },
+  {
+   "say": "Tiny grooves between its scales work like drinking straws.",
+   "show": "Tiny grooves between its scales work like drinking straws.",
+   "photo": "photo-top.jpg",
+   "focus": [
+    0.55,
+    0.5
+   ],
+   "stat": {
+    "value": "Skin straws",
+    "label": "Grooves between the scales",
+    "small": true
+   }
+  },
+  {
+   "say": "Touch damp sand, and water creeps along them, right to its mouth.",
+   "show": "Touch damp sand, and water creeps along them, right to its mouth.",
+   "photo": "photo-sand.jpg",
+   "focus": [
+    0.55,
+    0.5
+   ],
+   "stat": {
+    "value": "No sipping",
+    "label": "Water flows to its mouth",
+    "small": true
+   }
+  },
+  {
+   "say": "Under threat, it hides its real head and shows a spiky fake one.",
+   "show": "Under threat, it hides its real head and shows a spiky fake one.",
+   "photo": "photo-head.jpg",
+   "focus": [
+    0.5,
+    0.5
+   ],
+   "stat": {
+    "value": "Fake head",
+    "label": "A spiky knob on its neck",
+    "small": true
+   }
+  },
+  {
+   "say": "It even changes colour. Darker when it's cool, paler in the heat.",
+   "show": "It even changes colour. Darker when it's cool, paler in the heat.",
+   "photo": "photo-pale.jpg",
+   "focus": [
+    0.45,
+    0.7
+   ],
+   "stat": {
+    "value": "Colour shift",
+    "label": "Dark when cool, pale when hot",
+    "small": true
+   }
+  },
+  {
+   "say": "And it eats ants. Thousands a day, one at a time.",
+   "show": "And it eats ants. Thousands a day, one at a time.",
+   "photo": "photo-tail.jpg",
+   "focus": [
+    0.5,
+    0.55
+   ],
+   "stat": {
+    "value": "1,000s",
+    "label": "of ants a day"
+   }
+  },
+  {
+   "say": "Save this, and follow for more Aussie animal superpowers.",
+   "show": "Save this, and follow for more Aussie animal superpowers.",
+   "photo": "photo-side.jpg",
+   "focus": [
+    0.5,
+    0.55
+   ]
+  }
+ ],
+ "look": "native"
+}
