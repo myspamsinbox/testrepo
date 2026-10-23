@@ -1,0 +1,148 @@
+{
+ "location": "THURSDAY ISLAND (WAIBEN) · QLD",
+ "accent": "#f0c75e",
+ "hook": "This tiny island was built on *pearl shell*",
+ "tag": "Part 5 of 5: Hidden islands of Australia",
+ "cta": "A new *hidden wonder* every day",
+ "credit": "Photos: Jack Bain / QUT (CC BY 4.0), National Library of Australia, State Library of Queensland, Joyce Etta White (PD) via Wikimedia Commons · Music: Kevin MacLeod, Long Trail (PD) · AI voice",
+ "voice": "af_heart",
+ "speed": 1.12,
+ "coverAt": 2.0,
+ "music": "music-long-trail.mp3",
+ "musicStart": 0,
+ "scenes": [
+  {
+   "say": "This tiny island was built on pearl shell.",
+   "show": "This tiny island was built on pearl shell.",
+   "photo": "photo-shell.jpg",
+   "zoom": [
+    1.05,
+    1.18
+   ],
+   "panX": [
+    0.45,
+    0.55
+   ]
+  },
+  {
+   "say": "Thursday Island sits in the Torres Strait, just off the tip of Cape York.",
+   "show": "Thursday Island sits in the Torres Strait, just off the tip of Cape York.",
+   "photo": "photo-cta.jpg",
+   "zoom": [
+    1.0,
+    1.1
+   ],
+   "panX": [
+    0.3,
+    0.5
+   ],
+   "stat": {
+    "value": "Torres Strait",
+    "label": "Off the tip of Cape York, QLD",
+    "small": true
+   }
+  },
+  {
+   "say": "From the late eighteen-hundreds, it boomed as a pearling port.",
+   "show": "From the late 1800s, it boomed as a pearling port.",
+   "photo": "photo-luggers.jpg",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "panX": [
+    0.35,
+    0.5
+   ],
+   "stat": {
+    "value": "1800s",
+    "label": "A booming pearling port"
+   }
+  },
+  {
+   "say": "Its boats employed more than two thousand men. About a third of the divers were Japanese.",
+   "show": "Its boats employed more than 2,000 men. About a third of the divers were Japanese.",
+   "photo": "photo-shell.jpg",
+   "zoom": [
+    1.15,
+    1.3
+   ],
+   "panX": [
+    0.55,
+    0.45
+   ],
+   "stat": {
+    "value": "2,000+",
+    "countTo": 2000,
+    "suffix": "+",
+    "label": "men on the pearling boats"
+   }
+  },
+  {
+   "say": "Its name, Waiben, is often said to mean no water. The island had no permanent supply.",
+   "show": "Its name, Waiben, is often said to mean 'no water'. The island had no permanent supply.",
+   "photo": "photo-water.jpg",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "panX": [
+    0.2,
+    0.35
+   ],
+   "stat": {
+    "value": "Waiben",
+    "label": "Often said to mean 'no water'"
+   }
+  },
+  {
+   "say": "In eighteen-ninety, the Quetta sank in the Torres Strait. A church here still honours those lost.",
+   "show": "In 1890, the Quetta sank in the Torres Strait. A church here still honours those lost.",
+   "photo": "photo-quetta.jpg",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "panX": [
+    0.55,
+    0.65
+   ],
+   "grayAt": 0.5,
+   "stat": {
+    "value": "1890",
+    "label": "The Quetta sinks"
+   }
+  },
+  {
+   "say": "Today, this little island is often called the capital of the Torres Strait.",
+   "show": "Today, this little island is often called the capital of the Torres Strait.",
+   "photo": "photo-sunset.jpg",
+   "zoom": [
+    1.0,
+    1.12
+   ],
+   "panX": [
+    0.4,
+    0.6
+   ],
+   "stat": {
+    "value": "The capital",
+    "label": "of the Torres Strait",
+    "small": true
+   }
+  },
+  {
+   "say": "Save this, and follow for a new hidden island every day.",
+   "show": "Save this, and follow for a new hidden island every day.",
+   "photo": "photo-cta.jpg",
+   "zoom": [
+    1.12,
+    1.22
+   ],
+   "panX": [
+    0.5,
+    0.4
+   ]
+  }
+ ]
+}
